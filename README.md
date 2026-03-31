@@ -7,7 +7,7 @@
 ## 📁 Project Structure
 
 ```
-neural-networks-project/
+signal-classification-svhn-digit-recognition/
 │
 ├── NN_Project_Jesmine.ipynb          # Main Jupyter Notebook
 ├── NN_Project_Jesmine.html           # HTML export of the notebook
